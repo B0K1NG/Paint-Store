@@ -25,6 +25,7 @@ Welcome to the House Store Color Guide Styling Project! This CSS makeover focuse
 
 - HTML
 - CSS
+- Visual Studio Code
 
 ## How to Explore 🎨
 
